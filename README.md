@@ -39,4 +39,4 @@ The parameters are `spot = 100`, `strike = 100`, `volatility = 0.1`, `risk-free 
 For BS price at both American call and put options, the green line corresponds to the respective European call and put option.
 Since dividend is zero, both American and European call should worth the same, which is illustrated in the American call plot below.
 
-<p align="center"> <img  src="https://github.com/manityagi/Option_pricing/tree/master/Images/CCR_GBM_tree_simulations.png" width="850" height="600"></p> 
+<p align="center"> <img  src="https://github.com/manityagi/Option_pricing/blob/master/Images/CCR_GBM_tree_simulations.png" width="850" height="600"></p> 
