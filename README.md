@@ -8,7 +8,7 @@ I started with testing their consistencies to determine their correctness includ
 
 Then we validated all formulas using the Monte Carlo method. 
 The following is a plot of using Monte-Carlo method to price European put, call and binary put, call options.
-<p align="center"> <img  src="https://github.com/manityagi/Option_pricing/tree/master/Images/MC%20simulation%20to%20price%20options.png" width="700" height="400"></p> 
+<p align="center"> <img  src="https://github.com/manityagi/Option_pricing/blob/master/Images/MC%20simulation%20to%20price%20options.png" width="700" height="400"></p> 
 
 
 I also implemented Euler-Maruyama method to simulate the dynamic of stock price under Geometric Brownian Motion Stochastic Differential Equation.
