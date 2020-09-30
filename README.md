@@ -14,7 +14,7 @@ The following is a plot of using Monte-Carlo method to price European put, call 
 I also implemented Euler-Maruyama method to simulate the dynamic of stock price under Geometric Brownian Motion Stochastic Differential Equation.
 The following is a plot its simulation.
 
-<p align="center"> <img  src="https://github.com/manityagi/Option_pricing/tree/master/Images/GBM%20simulation.png" width="800" height="500"></p> 
+<p align="center"> <img  src="https://github.com/manityagi/Option_pricing/blob/master/Images/GBM%20simulation.png" width="800" height="500"></p> 
 
 
 ## [2. Vanilla Greeks using finite difference, pathwise derivative estimate and likelihood ratio methods.ipynb]()
